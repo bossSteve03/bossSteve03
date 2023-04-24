@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-- 🌱 I’m currently learning Python specifically on back-end
+- 🌱 I’m currently learning Python (for back-end)
 - ⚡ Fun fact: I'm a super duper quick learner!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosssteve03&langs_count=8)](https://github.com/bosssteve03/github-readme-stats)
