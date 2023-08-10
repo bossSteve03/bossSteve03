@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Steve Totev, a Front-End Developer.
 
 <!--
 **bossSteve03/bossSteve03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,8 +12,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Python (for back-end)
-- ⚡ Fun fact: I'm a super duper quick learner!
+- 🌱 I’m currently developing my skills in Tailwindcss
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosssteve03&langs_count=8)](https://github.com/bosssteve03/github-readme-stats)
