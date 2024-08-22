@@ -1,11 +1,7 @@
 ### Hi there 👋
-I'm Steve Totev, a Front-End Developer.
+I'm Steve Totev, an IT Solutions Apprentice & Web Developer.
 
 <!--
-**bossSteve03/bossSteve03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,7 +10,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently developing my skills in Tailwindcss
+
+- 🌱 I’m currently developing my skills through the Level 3 IT Solutions Technician (Software) apprenticeship.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosssteve03&langs_count=8)](https://github.com/bosssteve03/github-readme-stats)
