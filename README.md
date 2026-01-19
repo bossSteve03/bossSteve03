@@ -1,5 +1,17 @@
 ### Hi there 👋
-I'm Steve Totev, an IT Solutions Apprentice & Web Developer.
+I'm Steve Totev,
+
+I work as a Junior Software Developer at DEKRA.
+
+I learnt the majority of my fundamentals at a coding bootcamp,
+
+and most recently I completed a Level 3 IT Solutions Technician (Software) apprenticeship.
+
+A lot of my work is spread across GitHub & Azure Repos.
+
+In addition to the statistics below, I also have a lot of experience in PHP and some experience with C#
+
+The massive percent of Javascript is a product of my activity developing with React.
 
 <!--
 - 🔭 I’m currently working on ...
@@ -9,9 +21,6 @@ I'm Steve Totev, an IT Solutions Apprentice & Web Developer.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I'm currently learning ...
 -->
-
-- 🌱 I’m currently developing my skills through the Level 3 IT Solutions Technician (Software) apprenticeship.
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosssteve03&langs_count=8)](https://github.com/bosssteve03/github-readme-stats)
