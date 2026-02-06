@@ -24,6 +24,3 @@ The massive percent of Javascript is a product of my activity developing with Re
 - 🌱 I'm currently learning ...
 -->
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bosssteve03&theme=github)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bosssteve03&theme=github)
-
