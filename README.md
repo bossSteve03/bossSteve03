@@ -23,5 +23,5 @@ The massive percent of Javascript is a product of my activity developing with Re
 - ⚡ Fun fact: ...
 - 🌱 I'm currently learning ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosssteve03&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosssteve03&langs_count=8)
 
