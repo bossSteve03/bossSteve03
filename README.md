@@ -9,7 +9,7 @@ and most recently I completed a Level 3 IT Solutions Technician (Software) appre
 
 A lot of my work is spread across GitHub & Azure Repos.
 
-In addition to the statistics below, I also have a lot of experience in PHP and some experience with C#
+I have a lot of experience in JS, PHP and C# (in that order of familiarity)
 
 The massive percent of Javascript is a product of my activity developing with React.
 
