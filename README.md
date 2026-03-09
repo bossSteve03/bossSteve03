@@ -7,11 +7,9 @@ I learnt the majority of my fundamentals at a coding bootcamp,
 
 and most recently I completed a Level 3 IT Solutions Technician (Software) apprenticeship.
 
-A lot of my work is spread across GitHub & Azure Repos.
+I have used GitHub, Azure Repos, and Bitbucket.
 
 My experience is spread across JS, PHP and C# (in that order of familiarity)
-
-The massive percent of Javascript is a product of my activity developing with React.
 
 <!--
 - 🔭 I’m currently working on ...
