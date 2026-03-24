@@ -1,24 +1,29 @@
-### Hi there 👋
-I'm Steve Totev,
+# Steve Totev
 
-I work as a Junior Software Developer at DEKRA.
+**Junior Software Developer** at [DEKRA](https://www.dekra.com)
 
-I learnt the majority of my fundamentals at a coding bootcamp,
+---
 
-and most recently I completed a Level 3 IT Solutions Technician (Software) apprenticeship.
+## About Me
 
-I have used GitHub, Azure Repos, and Bitbucket.
+I'm a software developer with a solid foundation built through an intensive coding bootcamp and a **Level 3 IT Solutions Technician (Software) apprenticeship**. I work day-to-day at DEKRA, where I apply and grow my skills across the full development lifecycle.
 
-My experience is spread across JS, PHP and C# <!--(in that order of depth)-->
+---
 
-<!--
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🌱 I'm currently learning ...
--->
+## Tech Stack
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+| Category        | Tools & Technologies                        |
+|-----------------|---------------------------------------------|
+| Languages       | JavaScript (primary), PHP, C#               |
+| Version Control | Git — GitHub, Azure Repos, Bitbucket        |
+
+---
+
+## GitHub Stats
+
+![Steve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bossSteve03&show_icons=true&theme=default&hide_border=true)
