@@ -21,9 +21,3 @@ I'm a software developer with a solid foundation built through an intensive codi
 |-----------------|---------------------------------------------|
 | Languages       | JavaScript (primary), PHP, C#               |
 | Version Control | Git — GitHub, Azure Repos, Bitbucket        |
-
----
-
-## GitHub Stats
-
-![Steve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bossSteve03&show_icons=true&theme=default&hide_border=true)
