@@ -9,7 +9,7 @@ and most recently I completed a Level 3 IT Solutions Technician (Software) appre
 
 I have used GitHub, Azure Repos, and Bitbucket.
 
-My experience is spread across JS, PHP and C# (in that order of familiarity)
+My experience is spread across JS, PHP and C# <!--(in that order of depth)-->
 
 <!--
 - 🔭 I’m currently working on ...
